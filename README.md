@@ -1,3 +1,7 @@
+# Strikethrough
+
+~~this~~
+
 # URL
 
 http://abv.bg
