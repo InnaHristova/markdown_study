@@ -1,4 +1,6 @@
-#MyCHeck
+# Image - second try
+
+![image](https://user-images.githubusercontent.com/87419448/127867917-89131380-a18b-4034-b3a3-429cdf14457e.png)
 
 
 # Emoji 
