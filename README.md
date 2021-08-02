@@ -1,3 +1,11 @@
+# Blockquotes
+
+As Kanye West said:
+
+> We're living the future so the present is our past.
+
+
+
 # Images
 
 ![GitHub Logo](/images/logo.png)
