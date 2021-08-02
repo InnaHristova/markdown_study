@@ -1,3 +1,14 @@
+# Tables
+
+Fruits | Vegetables
+-------| ----------
+Apple  | Carrot
+Orange | Tomato
+
+
+
+
+
 # Task Lists
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
