@@ -1,3 +1,34 @@
+# Syntax
+
+````javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+````
+
+
+    function fancyAlert(arg) {
+     if(arg) {
+      $.facebox({div:'#foo'})
+     }
+    }
+    
+
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+
+
+```` Python
+def foo():
+    if not bar:
+        return True
+````
+
 # Inline
 
 I think you should use an `<addr>` element here instead.
