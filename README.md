@@ -1,3 +1,11 @@
+# Images
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+[Google](http://google.com)
+
+
 # Headers
 
 # Header
