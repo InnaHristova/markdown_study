@@ -1,3 +1,11 @@
+# Emoji 
+
+:shipit:
+
+😀
+
+🤔
+
 # Strikethrough
 
 ~~this~~
