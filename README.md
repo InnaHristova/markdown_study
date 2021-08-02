@@ -1,3 +1,12 @@
+# Ref with rep - second try -> link toward pull requested, but I doubt that this is the aim of the task
+
+https://github.com/InnaHristova/beginner2/pulls
+
+//////
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
+
 # Image - second try
 
 ![image](https://user-images.githubusercontent.com/87419448/127867917-89131380-a18b-4034-b3a3-429cdf14457e.png)
